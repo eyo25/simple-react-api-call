@@ -1,0 +1,19 @@
+
+ .card{
+    display:inline-flex;
+     height: 600;
+     width: 270px;
+     background:white;
+     flex-grow: 1;
+     margin: 20px;
+     border-radius: 15px;
+
+ }
+ .image-cap{
+     height: 150px;
+     width: 270px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+     margin-bottom: 15px;
+ }
+ 
